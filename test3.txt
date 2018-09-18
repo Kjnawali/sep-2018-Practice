@@ -1,0 +1,7 @@
+Lat's ad something new in the third file
+Lat's ad something new in the third file in the system to make something different.
+<<<<<<< HEAD
+I am adding sthing new to the systme
+=======
+Something new added in the system
+>>>>>>> ec917f4b4ccdbdffd1e944d41cd2cf8f1355280d
